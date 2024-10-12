@@ -1,4 +1,3 @@
-# Data-Mining-Pattern-Discovery-California-Housing-DS-
 # Data Mining & Pattern Discovery: California Housing Dataset
 
 ## Overview
